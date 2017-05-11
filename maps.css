@@ -11,3 +11,20 @@ body {
    border: 8px black solid;
  }
 
+h1 {
+  font-family: 'Quicksand', sans-serif;  
+  font-size: 3.5rem;
+  background-color: black;
+  color: white;
+  font-weight: 300;
+  text-align: center;
+}
+
+form {
+  font-family: 'Quicksand', sans-serif;
+  background-color: salmon;
+  font-size: 1.5rem;
+  border: 1px black dotted;
+  width: 91%;
+  text-align: center;
+}
