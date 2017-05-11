@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/9a/d4/52/9ad452a922aad59247a3a790983ac2c1.jpg);
+  background-repeat: repeat;
+} 
+
+#map {
+   width: 90%;
+   height: 400px;
+   align-content: center;
+   background-color: grey;
+   border: 8px black solid;
+ }
+
